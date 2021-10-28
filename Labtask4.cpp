@@ -1,5 +1,4 @@
-uestion 2.	Write a C++ Program to make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
-//2.Write a C++ Program to make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
+// Question 2.Write a C++ Program to make a Simple Calculator to Add, Subtract, Multiply or Divide Using switch...case
 
 #include <iostream>
 using namespace std;
